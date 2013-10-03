@@ -6,5 +6,5 @@ History
 2013-10-02
 ++++++++++
 
-- 1 point, completed up to problem 1
+- 2 points; completed up to problems 1 through 2
 
