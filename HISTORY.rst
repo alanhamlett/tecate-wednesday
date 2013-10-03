@@ -6,5 +6,5 @@ History
 2013-10-02
 ++++++++++
 
-- 2 points; completed up to problems 1 through 2
+- 51 points; completed problems 1, 2, and 48
 
